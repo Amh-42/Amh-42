@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Development
 - 🌱 I’m currently learning Django web framework
 - 💞️ I’m looking to collaborate on django projects
-- 📫 How to reach me using t.me/anwar0misbah 
+- 📫 How to reach me using t.me/anwar_misbah 
 
 <!---
 Amh-42/Amh-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

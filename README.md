@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 [![wakatime](https://wakatime.com/badge/user/cc882208-c983-46cb-b4f5-ed20bb5c6e07.svg)](https://wakatime.com/@cc882208-c983-46cb-b4f5-ed20bb5c6e07)
 
 <h1 align="center">Hi 👋, I'm Anwar Misbah</h1>
-<h3 align="center">A passionate fullstack developer from Ethiopia</h3>
+<h3 align="center">A passionate AI Engineer from Ethiopia</h3>
 
 <p align="center">
  <a href="https://anwar365.com" target="blank">
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 - 👋 Hi, I’m Anwar Misbah
-- 🏆 I'm (aiwar365)[aiwar365.com] **CEO and Founder**
+- 🏆 I'm [aiwar365](aiwar365.com) **CEO and Founder**
 - 👀 I’m interested in **Cloud Computing, Microservice application and DevOps.**
 - 🔭 I’m currently working on **Full Stuck Web Development**
 - 🌱 I’m currently learning **Cloud Computing and DevOps**

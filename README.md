@@ -3,13 +3,13 @@ amh-42/amh-42 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://komarev.com/ghpvc/?username=harunjeylan">
-  <img align="right" src="https://komarev.com/ghpvc/?username=harunjeylan&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=AnwarMisbah">
+  <img align="right" src="https://komarev.com/ghpvc/?username=AnwarMisbah&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/cc882208-c983-46cb-b4f5-ed20bb5c6e07.svg)](https://wakatime.com/@cc882208-c983-46cb-b4f5-ed20bb5c6e07)
 
-<h1 align="center">Hi 👋, I'm Harun Jeylan</h1>
+<h1 align="center">Hi 👋, I'm Anwar Misbah</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
 <p align="center">
@@ -22,13 +22,13 @@ You can click the Preview link to take a look at your changes.
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
- <a href="https://twitter.com/HarunJeylan1" target="_blank">
+ <a href="https://twitter.com/AnwarMisbah1" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/harunjeylanwako" target="_blank">
+ <a href="https://instagram.com/AnwarMisbahwako" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.harunjeylanwako" target="_blank">
+ <a href="https://facebook.AnwarMisbahwako" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
@@ -38,18 +38,18 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-- 👋 Hi, I’m Harun Jeylan
+- 👋 Hi, I’m Anwar Misbah
 - 🏆 I'm Ozonetechnology **CTO and Founder**
 - 👀 I’m interested in **Cloud Computing, Microservice application and DevOps.**
 - 🔭 I’m currently working on **Full Stuck Web Development**
 - 🌱 I’m currently learning **Cloud Computing and DevOps**
 - 💬 Ask me about **Programming and Web Development**
-- 📫 How to reach me **harunjeylanwako@gmail.com**
+- 📫 How to reach me **AnwarMisbahwako@gmail.com**
 - 📝 Know more about me on **[My Resume](https://drive.google.com/file/d/1MmVs7pUlnpTiuxOU1kpDfJ5pV46nCBHy/view?usp=drivesdk)**
 
 <br />
 <H2>About</H2>
-<p>My name is Harun and I am proud of who I am. Every day I strive to be kind, honest, and true to myself. I believe in the power of hard work and making dreams into reality. It is important for me to keep pushing forward and taking on life with resilience, no matter what comes my way. Success doesn't come without challenge but I have faith that if I stay determined and confident, anything can be achieved!</p>
+<p>My name is Anwar and I am proud of who I am. Every day I strive to be kind, honest, and true to myself. I believe in the power of hard work and making dreams into reality. It is important for me to keep pushing forward and taking on life with resilience, no matter what comes my way. Success doesn't come without challenge but I have faith that if I stay determined and confident, anything can be achieved!</p>
 
 <ul>
   <li>
@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
       🗨️ +251922414657
   </li>
     <li>
-      ✉️ harunjeylanwako@gmail.com
+      ✉️ AnwarMisbahwako@gmail.com
   </li>
   </ul>
 
@@ -96,14 +96,14 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/amh-42">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amh-42&theme=radical" alt="Harun Jeylan's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amh-42&theme=radical" alt="Anwar Misbah's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/amh-42"><img alt="Harun Jeylan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=amh-42&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Harun Jeylan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=amh-42&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/amh-42"><img alt="Anwar Misbah's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=amh-42&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Anwar Misbah's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=amh-42&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Harun Jeylan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amh-42&custom_title=Harun%20Jeylan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Anwar Misbah's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amh-42&custom_title=Anwar%20Misbah's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)

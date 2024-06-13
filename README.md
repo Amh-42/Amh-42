@@ -40,11 +40,11 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Anwar Misbah
 - 🏆 I'm [aiwar365](https://aiwar365.com) **CEO and Founder**
-- 👀 I’m interested in **Cloud Computing, Microservice application and DevOps.**
-- 🔭 I’m currently working on **Full Stuck Web Development**
-- 🌱 I’m currently learning **Cloud Computing and DevOps**
-- 💬 Ask me about **Programming and Web Development**
-- 📫 How to reach me **AnwarMisbahwako@gmail.com**
+- 👀 I’m interested in **Artificial intelligence and AGI**
+- 🔭 I’m currently working on **AI Integration and Business Automation**
+- 🌱 I’m currently learning **Langchain and LLMs**
+- 💬 Ask me about **AI and Python**
+- 📫 How to reach me **anwarandalus@gmail.com**
 - 📝 Know more about me on **[My Resume](matching.turing.com/developer-resume-preview/c1a441a999bbb82becb34e2d9f78074e5be3d415291235)**
 
 <br />

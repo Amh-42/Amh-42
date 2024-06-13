@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **Cloud Computing and DevOps**
 - 💬 Ask me about **Programming and Web Development**
 - 📫 How to reach me **AnwarMisbahwako@gmail.com**
-- 📝 Know more about me on **[My Resume](https://drive.google.com/file/d/1MmVs7pUlnpTiuxOU1kpDfJ5pV46nCBHy/view?usp=drivesdk)**
+- 📝 Know more about me on **[My Resume](matching.turing.com/developer-resume-preview/c1a441a999bbb82becb34e2d9f78074e5be3d415291235)**
 
 <br />
 <H2>About</H2>

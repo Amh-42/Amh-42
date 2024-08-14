@@ -56,10 +56,10 @@ You can click the Preview link to take a look at your changes.
     ➡️ How to connect with me?
   </li>
     <li>
-      🗨️ +251922414657
+      🗨️ +251942601154
   </li>
     <li>
-      ✉️ AnwarMisbahwako@gmail.com
+      ✉️ anwar@aiwar365.com
   </li>
   </ul>
 

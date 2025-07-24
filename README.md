@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A passionate AI Engineer from Ethiopia</h3>
 
 <p align="center">
- <a href="https://anwar365.com" target="blank">
+ <a href="https://inlinkai.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="amh-42" />
  </a>
  <a href="https://linkedin.com/in/anwarmisbah" target="_blank">
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
- <a href="https://twitter.com/AnwarMisbah1" target="_blank">
+ <a href="https://twitter.com/inlinkai" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/AnwarMisbahwako" target="_blank">
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 - 👋 Hi, I’m Anwar Misbah
-- 🏆 I'm [aiwar365](https://aiwar365.com) **CEO and Founder**
+- 🏆 I'm [inlinkai](https://inlinkai.com) **CEO and Founder**
 - 👀 I’m interested in **Artificial intelligence and AGI**
 - 🔭 I’m currently working on **AI Integration and Business Automation**
 - 🌱 I’m currently learning **Langchain and LLMs**
@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
       🗨️ +251942601154
   </li>
     <li>
-      ✉️ anwar@aiwar365.com
+      ✉️ anwar@inlinkai.com
   </li>
   </ul>
 
